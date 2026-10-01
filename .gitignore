@@ -1,0 +1,20 @@
+# ROS 2 generated files
+build/
+install/
+log/
+
+# ROS 2 local files
+.ros/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
